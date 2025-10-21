@@ -2,3 +2,4 @@
 -- I check that all the data has been set correctly
 
 SELECT COUNT(*) FROM trips2;
+
