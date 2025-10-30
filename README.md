@@ -23,7 +23,7 @@ che comprende:
 - Longitudine finale
 - Membro o passeggero occasionale
 
-L'obbiettivo del progetto è quello di mostrare all'azienda l'andamento dell'utilizzo dei mezzi messi a disposizione nelle varie fasce orarie in ognuno dei giorni della settimana. Per capire, per esempio, quando effettuare manutenzioni alle stazioni per recare meno disagi ai clienti.
+L'obbiettivo del progetto è quello di mostrare all'azienda l'andamento dell'utilizzo dei mezzi messi a disposizione nelle varie fasce orarie in ogni giorno della settimana. Per capire, per esempio, quando effettuare manutenzioni alle stazioni per recare meno disagi ai clienti.
 
 2) File aperto e controllato tramite Excel, per analizzare il contenuto (112444 righe) e verificare se ci sono eventuali elemeti da "pulire" prima di effetuare i calcoli. File nominato: "FileDiPartenza.csv" in questo progetto.
 
